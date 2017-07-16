@@ -1,3 +1,3 @@
 # DiscordCommunityBot
 
-A Discord bot created by the /r/LearnMachineLearning community
+A Discord bot created by the /r/LearnMachineLearning community.
